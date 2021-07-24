@@ -51,7 +51,7 @@ public class FindMissInteger {
     private static int getMissInteger(int[] array){
         int missValue = 0 ;
         //解法一
-        HashMap<Integer,String> map = new HashMap<>(10);
+        HashMap<Integer,String> map = new HashMap<Integer,String>(10);
         for (int i = 1; i <= 10; i++) {
             map.put(i,"");
         }
