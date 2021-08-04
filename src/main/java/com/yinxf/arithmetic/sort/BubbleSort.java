@@ -1,4 +1,4 @@
-package com.yinxf.demo.arithmetic.sort;
+package com.yinxf.arithmetic.sort;
 
 import java.util.Arrays;
 

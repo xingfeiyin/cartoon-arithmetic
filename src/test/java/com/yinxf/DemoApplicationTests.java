@@ -1,4 +1,4 @@
-package com.yinxf.demo;
+package com.yinxf;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;

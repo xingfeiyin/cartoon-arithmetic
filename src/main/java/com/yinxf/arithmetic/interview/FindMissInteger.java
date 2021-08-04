@@ -1,4 +1,4 @@
-package com.yinxf.demo.arithmetic.interview;
+package com.yinxf.arithmetic.interview;
 
 import java.util.Arrays;
 import java.util.HashMap;

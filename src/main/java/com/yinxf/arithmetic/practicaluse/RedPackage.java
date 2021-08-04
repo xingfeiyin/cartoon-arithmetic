@@ -1,4 +1,4 @@
-package com.yinxf.demo.arithmetic.practicaluse;
+package com.yinxf.arithmetic.practicaluse;
 
 import java.math.BigDecimal;
 import java.util.ArrayList;

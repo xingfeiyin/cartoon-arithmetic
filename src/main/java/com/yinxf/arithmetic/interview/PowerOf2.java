@@ -1,4 +1,4 @@
-package com.yinxf.demo.arithmetic.interview;
+package com.yinxf.arithmetic.interview;
 
 /**
  * 如何判断一个数是否为2的整数次幂

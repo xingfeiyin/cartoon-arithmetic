@@ -1,4 +1,4 @@
-package com.yinxf.demo.arithmetic.interview;
+package com.yinxf.arithmetic.interview;
 
 /**
  * 1.判断链表是否有环

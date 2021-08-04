@@ -1,4 +1,4 @@
-package com.yinxf.demo.arithmetic.practicaluse;
+package com.yinxf.arithmetic.practicaluse;
 
 import java.util.ArrayList;
 import java.util.List;

@@ -1,4 +1,4 @@
-package com.yinxf.demo.arithmetic.interview;
+package com.yinxf.arithmetic.interview;
 
 /**
  * 求两个数的最大公约数
