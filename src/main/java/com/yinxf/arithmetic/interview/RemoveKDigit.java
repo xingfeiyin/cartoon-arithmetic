@@ -1,7 +1,5 @@
 package com.yinxf.arithmetic.interview;
 
-import org.springframework.util.StringUtils;
-
 /**
  * 删除k个数字后的最小值
  * 题目：给出一个整数，从该整数中去掉k个数字，要求剩下的数字形成的新整数尽可能小，

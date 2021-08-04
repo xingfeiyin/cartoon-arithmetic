@@ -1,7 +1,5 @@
 package com.yinxf.arithmetic.interview;
 
-import org.springframework.boot.autoconfigure.couchbase.CouchbaseProperties;
-
 /**
  * 无序数组排序后的最大相邻差
  *
