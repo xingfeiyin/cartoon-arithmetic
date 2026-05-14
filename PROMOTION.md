@@ -61,6 +61,10 @@ cartoon-arithmetic
 
 - 确认 README 已添加
 - 确认 LICENSE 显示为 MIT
+- 添加 README_EN.md
+- 添加算法索引
+- 添加维护计划
+- 添加 PR 模板
 - 添加 GitHub topics
 - 发布到掘金
 - 发布到知乎
@@ -68,3 +72,12 @@ cartoon-arithmetic
 - 发布到朋友圈或技术群
 - 挑 3 个适合新手参与的问题放到 Issues
 - 后续每周补充 1 到 2 个算法示例或测试
+
+## 申请开源支持前的准备
+
+- README 能说明项目价值
+- 仓库能看到 MIT 许可证
+- 有清晰的 Roadmap 和 Maintenance Plan
+- 有适合新手参与的 Issue
+- 有真实文章、反馈或使用记录
+- 申请材料可参考 `docs/OPENAI_OSS_APPLICATION.md`

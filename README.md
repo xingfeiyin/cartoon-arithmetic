@@ -80,6 +80,13 @@ src/main/java/com/yinxf/arithmetic
 
 后续计划见 [ROADMAP.md](ROADMAP.md)。
 
+## 更多资料
+
+- [English README](README_EN.md)
+- [算法索引](docs/ALGORITHM_INDEX.md)
+- [维护计划](docs/MAINTENANCE_PLAN.md)
+- [增长清单](docs/GROWTH_CHECKLIST.md)
+
 ## License
 
 本项目使用 MIT License。
